@@ -7,7 +7,16 @@ class MyClient(discord.Client):
         print(f'Logged on as {self.user}!')
 
     async def on_message(self, message):
-        print(f'Message from {message.author}: {message.content}')
+        if message.content.upper() == 'READ':
+            await message.channel.send('Detected text channels...')
+            for channel in message.guild.text_channels:
+                await message.channel.send(f'Channel: {channel.name}')
+            await message.channel.send('Detected voice channels...')
+            for channel in message.guild.voice_channels:
+                await message.channel.send(f'Channel: {channel.name}')
+            await message.channel.send('Detected categories...')
+            for category in message.guild.categories:
+                await message.channel.send(f'Category: {category.name}')
 
 
 intents = discord.Intents.default()
