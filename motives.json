@@ -218,5 +218,115 @@
                 "PZN Zone"
             ]
         ]
+    },
+    "Spooktober": {
+        "text_channels": [
+            [
+                1342921407226577027,
+                "spooky-gifs"
+            ],
+            [
+                1342921415917178944,
+                "gify-telefonowe"
+            ],
+            [
+                1368576231959826432,
+                "memes"
+            ],
+            [
+                1368576264402767872,
+                "same-jumpscary-nsfw"
+            ],
+            [
+                1368576300113199104,
+                "sylwestrownik"
+            ],
+            [
+                1368576409898975344,
+                "bot-channel"
+            ],
+            [
+                1368576436671348816,
+                "giercorangi"
+            ],
+            [
+                1368576453339254786,
+                "karuta"
+            ],
+            [
+                1368576473702731867,
+                "flood-mudae"
+            ],
+            [
+                1368576504136597606,
+                "harem-dla-odważnych"
+            ],
+            [
+                1368576526509015132,
+                "logi"
+            ],
+            [
+                1368576740762320897,
+                "spooky-chat"
+            ],
+            [
+                1368576866541113384,
+                "scare-of-exile"
+            ],
+            [
+                1368576898640117800,
+                "esportowe-pogaduchy"
+            ],
+            [
+                1368576957620686938,
+                "Katakumby"
+            ],
+            [
+                1368689457318068255,
+                "project-group"
+            ],
+            [
+                1368689491174494250,
+                "test-channel"
+            ]
+        ],
+        "voice_channels": [
+            [
+                1368578148391718942,
+                "Let me bone me"
+            ],
+            [
+                1368578229622800437,
+                "Togetha we will devouah the very bones"
+            ],
+            [
+                1368578345243119667,
+                "(Nie)spokojne kości"
+            ],
+            [
+                1368578403455860847,
+                "Dobra necropolis"
+            ],
+            [
+                1368578444539068446,
+                "Krypta szkieletów"
+            ],
+            [
+                1368578495868829736,
+                "jocmentarzia"
+            ],
+            [
+                1368578651951464529,
+                "Kościany krąg Daylena"
+            ],
+            [
+                1368578699649089608,
+                "Path of Bones"
+            ],
+            [
+                1368578596339318855,
+                "Bone Zone"
+            ]
+        ]
     }
 }
